@@ -1,5 +1,5 @@
 # linkedin-automation-tool
-This tool automates connection requests and profile interactions on LinkedIn using Go and Rod.  
+This tool automates connection requests and profile interactions on LinkedIn using Go and Rod Library  
 ```bash
 It demonstrates:  
 - Automated login to LinkedIn  
