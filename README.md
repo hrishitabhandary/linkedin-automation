@@ -18,7 +18,7 @@ git clone https://github.com/hrishitabhandary/linkedin-automation.git
 cd linkedin-automation-go
 
 2.## Setting Environment Variables
-
+```bash
 The tool uses environment variables to store sensitive credentials securely.  
 
 ### On Windows
