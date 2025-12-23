@@ -13,10 +13,11 @@ The tool uses session cookies for authentication and focuses on automating netwo
 ## Setup
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/hrishitabhandary/linkedin-automation.git
 cd linkedin-automation-go
-```bash
+
+##
 2.## Setting Environment Variables
 ```bash
 The tool uses environment variables to store sensitive credentials securely.  
