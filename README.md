@@ -38,7 +38,8 @@ export LINKEDIN_PASSWORD="yourpassword"
 ```
 3. Install Go Dependencies
 ```bash
-go run cmd/main/main.go
+go mod tidy
+
 ```
 4.Run the Tool
 Execute the following command:
