@@ -17,13 +17,13 @@ Watch the walkthrough video here:
 
 ## Setup
 
-##1. Clone the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/hrishitabhandary/linkedin-automation.git
 cd linkedin-automation-go
 ```
 
-###2. Setting Environment Variables
+2. Setting Environment Variables
 The tool uses environment variables to store sensitive credentials securely.  
  On Windows
 
@@ -36,7 +36,7 @@ setx LINKEDIN_PASSWORD "yourpassword"
 export LINKEDIN_EMAIL="youremail@example.com"
 export LINKEDIN_PASSWORD="yourpassword"
 ```
-###3. Install Go Dependencies
+3. Install Go Dependencies
 ```bash
 go run cmd/main/main.go
 ```
